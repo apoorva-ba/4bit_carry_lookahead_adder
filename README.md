@@ -48,5 +48,6 @@ Si = Pi ⊕ Ci
 | 1111 | 1111 | 1 | 1111 | 1 |
 
 ## Author 
-Apoorva B A  ECE Student
+- Apoorva B A  
+- ECE Student
 
