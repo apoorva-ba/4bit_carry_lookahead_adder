@@ -29,10 +29,10 @@ P = A ^ B
 
 Carry signals are generated using:
 
-C1 = G0 + P0Cin.
-C2 = G1 + P1G0 + P1P0Cin.
-C3 = G2 + P2G1 + P2P1G0 + P2P1P0Cin.
-C4 = G3 + P3G2 + P3P2G1 + P3P2P1G0 + P3P2P1P0Cin.
+- C1 = G0 + P0Cin.
+- C2 = G1 + P1G0 + P1P0Cin.
+- C3 = G2 + P2G1 + P2P1G0 + P2P1P0Cin.
+- C4 = G3 + P3G2 + P3P2G1 + P3P2P1G0 + P3P2P1P0Cin.
 
 
 Sum bits are calculated as:
